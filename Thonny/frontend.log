@@ -1,0 +1,20 @@
+23:10:57.487 [MainThread] INFO    thonny: Thonny version: 4.1.7
+23:10:57.487 [MainThread] INFO    thonny: cwd: /home/johnny
+23:10:57.487 [MainThread] INFO    thonny: original argv: ['/usr/bin/python', '/usr/bin/thonny']
+23:10:57.487 [MainThread] INFO    thonny: sys.executable: /usr/bin/python
+23:10:57.487 [MainThread] INFO    thonny: sys.argv: ['/usr/bin/thonny']
+23:10:57.487 [MainThread] INFO    thonny: sys.path: ['/usr/bin', '/usr/lib/python313.zip', '/usr/lib/python3.13', '/usr/lib/python3.13/lib-dynload', '/usr/lib/python3.13/site-packages']
+23:10:57.487 [MainThread] INFO    thonny: sys.flags: sys.flags(debug=0, inspect=0, interactive=0, optimize=0, dont_write_bytecode=0, no_user_site=0, no_site=0, ignore_environment=0, verbose=0, bytes_warning=0, quiet=0, hash_randomization=1, isolated=0, dev_mode=False, utf8_mode=0, warn_default_encoding=0, safe_path=False, int_max_str_digits=4300)
+23:11:00.978 [MainThread] INFO    thonny.workbench: Starting Workbench
+23:11:01.009 [MainThread] INFO    thonny.workbench: Creating runner
+23:11:01.013 [MainThread] INFO    thonny.workbench: Start loading plugins
+23:11:01.160 [MainThread] INFO    thonny.workbench: Done loading plugins
+23:11:01.168 [MainThread] WARNING thonny.workbench: Could not find UI theme 'clam', switching to default
+23:11:01.302 [MainThread] INFO    thonny.workbench: Opening views
+23:11:01.479 [MainThread] INFO    thonny.plugins.cpython_frontend.cp_front: Creating LocalCPythonProxy
+23:11:01.480 [MainThread] INFO    thonny.running: Starting the backend: ['/usr/bin/python', '-u', '-B', '/usr/lib/python3.13/site-packages/thonny/plugins/cpython_backend/cp_launcher.py', '/home/johnny', "{'run.warn_module_shadowing': True}"] /home/johnny
+23:11:29.020 [MainThread] INFO    thonny.ui_utils: Parent y: 79, rooty: 79, vrooty: 0
+23:11:29.020 [MainThread] INFO    thonny.ui_utils: Placing .!configurationdialog with geometry +624+281
+23:12:11.667 [MainThread] INFO    thonny.running: Killing backend process
+23:12:11.667 [MainThread] INFO    thonny.shell: BaseShellText._on_backend_terminated
+23:12:11.671 [Thread-2 (_listen_stdout)] INFO    thonny.running: Reader got EOF
