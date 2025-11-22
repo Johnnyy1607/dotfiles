@@ -1,0 +1,9 @@
+[Default Applications]
+inode/directory=thunar.desktop
+application/x-wayland-gnome-saved-search=thunar.desktop
+x-scheme-handler/hydralauncher=hydralauncher.desktop
+application/x-ms-dos-executable;application/x-wine-extension-msp;application/x-msi;application/x-msdos-program;text/win-bat;=PortProton.desktop
+
+[Added Associations]
+application/xml=org.xfce.mousepad.desktop;
+application/x-bat=ru.linux_gaming.PortProton.desktop;
